@@ -1,0 +1,1 @@
+import{a as r}from"./chunk-IPJQTWVU.js";function e(o){return r.apiUrl+o}export{e as a};

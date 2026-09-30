@@ -1,0 +1,1 @@
+var o=e=>{let n=e.length,t=[];for(let s=0;s<n;s++)s<3?t.push(e[s]):s>2&&s<n-3?t.push("*"):t.push(e[s]);return t.join("")};export{o as a};

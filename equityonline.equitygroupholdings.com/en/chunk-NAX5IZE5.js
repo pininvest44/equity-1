@@ -1,0 +1,1 @@
+var o={horizontalPosition:"right",verticalPosition:"top",panelClass:"access-module-snackbar",duration:1e4},a={duration:1e4,horizontalPosition:"center",verticalPosition:"top",panelClass:"default-snackbar"};export{o as a,a as b};

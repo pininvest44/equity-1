@@ -1,0 +1,1 @@
+import"./chunk-VCT2SD3T.js";var t=[{path:"",loadComponent:()=>import("./chunk-Q2PYOXH6.js").then(o=>o.OnboardingComponent)}],n=t,e=n;export{e as default,n as onboardingRoutes};
