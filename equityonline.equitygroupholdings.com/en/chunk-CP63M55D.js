@@ -1,0 +1,1 @@
+function s(e){return e.details?.error_description||e.details?.errorDescription||e.details?.statusMessage||e.details?.responseObject||e.details?.message||e.message}export{s as a};
